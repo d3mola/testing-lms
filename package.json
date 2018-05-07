@@ -1,0 +1,14 @@
+{
+  "name": "tdd_example",
+  "version": "1.0.0",
+  "description": "Checks if the number of 'x' and 'o' in a word are equal",
+  "main": "index.js",
+  "start": "node index.js",
+  "scripts": {
+    "test": "mocha ./test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {}
+}
