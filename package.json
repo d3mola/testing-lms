@@ -17,5 +17,13 @@
     "express": "^4.16.3",
     "mocha": "^5.1.1"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d3mola/testing-lms.git"
+  },
+  "bugs": {
+    "url": "https://github.com/d3mola/testing-lms/issues"
+  },
+  "homepage": "https://github.com/d3mola/testing-lms#readme"
 }
