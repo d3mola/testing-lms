@@ -7,6 +7,10 @@
   "scripts": {
     "test": "mocha ./test"
   },
+  "engines": {
+    "node": 8,
+    "npm": "5.6.0"
+  },
   "author": "",
   "license": "ISC",
   "dependencies": {
