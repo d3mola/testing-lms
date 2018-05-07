@@ -5,7 +5,7 @@
  * 
  * @returns { boolean | string } boolean representasion of X and O equaltiy or Error message
  */
-const XO = (str) => {
+var XO = (str) => {
 
   if(typeof str === 'undefined' || typeof str === 'null') {
     return 'Please pass in the word to be tested';

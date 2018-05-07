@@ -1,5 +1,5 @@
-const assert = require('assert');
-const XO = require('./index');
+var assert = require('assert');
+var XO = require('./index');
 
 describe('Basic Mocha String Test', () => {
 
